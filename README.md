@@ -26,5 +26,5 @@ TabLayout is used to implement horizontal tabs
 While
 ViewPager is the widget that gives user an opportunity to swipe left or right to see an entirely new screen or activity.
 
-Relationship
+Relationship.
 both tab layout and viewPager can be connected or join together
